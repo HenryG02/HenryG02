@@ -17,13 +17,14 @@ I'm a professional who belives in the power of data to orient and drive better b
 ## 🏆 Achievements
 Certified as an Associate Data Scientist by Datacamp
 
+## 📫 How to reach me:
+Linkedin: www.linkedin.com/in/henry-goya
+
 
 <!--
 **HenryG02/HenryG02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
