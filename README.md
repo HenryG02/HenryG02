@@ -12,7 +12,7 @@ I'm a professional who belives in the power of data to orient and drive better b
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py, sklearn, tensorflow, git, github, html, linux, mysql, postgres, vscode, r, docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,git,github,html,linux,mysql,postgres,vscode,r,docker)](https://skillicons.dev)
 
 ## 🏆 Achievements
 Certified as an Associate Data Scientist by Datacamp
